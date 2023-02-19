@@ -37,3 +37,7 @@ Task:
   intro to public APIs ---> Choose public APIs based on the API_key, Https, Cors
 
   https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=991f626650507e6605c2ca33f8edc191
+
+
+Next Session:
+  storage concept --> deep dive
