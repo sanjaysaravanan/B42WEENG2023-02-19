@@ -1,0 +1,39 @@
+async and await:
+  async & await --> 
+    1. async keyword is used before a function which does asynchronous operations.
+       async can only used in front of a function
+    2.  await keyword makes the functions to wait for asynchronous action until there resoltion/rejection using await
+  
+  Return Type: Promise<any>
+  
+  Error Handling:
+    using try / catch inside aync
+  
+  window --> localStorage and sessionStorage 
+  https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
+
+Task:
+  fetch:
+    1. use fetch to get rest-countries and display basic country info
+
+    2. Use country info and make one call to openweather API and display basic weather details for a country
+
+  async/await:
+    Do the same above with the help of async/await without chaining
+
+  1. Publics APIs
+    Look for You requirement & Choose a type of API
+    Use APIs which has HTTPS 
+    If Signing is fine Go for Auth, HTTPS, CORS enabled
+
+    Read the Documentation Test the API before choosing it
+
+  2. Implementation of DOM manipulation examples
+    1. Email Verify examples
+    2. Get City weather examples
+
+  3. Design Ideas, https://spicey-hut.netlify.app/recipe.html, https://shoppingcart-spicyhut.netlify.app/#header
+
+  intro to public APIs ---> Choose public APIs based on the API_key, Https, Cors
+
+  https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=991f626650507e6605c2ca33f8edc191
